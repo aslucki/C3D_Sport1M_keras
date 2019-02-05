@@ -21,7 +21,7 @@ https://github.com/axon-research/c3d-keras
 1. Build a docker image:  
 Run `make build` from the top directory.
 
-2. Check if everything works:
+2. Check if everything works:  
 Run `make example` from the top directory.
 
 You should see this message if everything is ok:
