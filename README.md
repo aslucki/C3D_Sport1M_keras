@@ -1,8 +1,7 @@
 # About
 Implementation of:  
-*Learning Spatiotemporal Features with 3D Convolutional Networks*
-Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, Manohar Paluri
-https://arxiv.org/abs/1412.0767
+Du Tran, Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, Manohar Paluri *Learning Spatiotemporal Features With 3D Convolutional Networks.*
+Proceedings of the IEEE International Conference on Computer Vision. 2015. [full article](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)
 
 __Updated to keras 2.2.4__
 
