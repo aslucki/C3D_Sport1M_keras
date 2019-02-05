@@ -7,7 +7,7 @@ https://arxiv.org/abs/1412.0767
 __Updated to keras 2.2.4__
 
 # Weights
-You can download weights of the model trained
+You can __download weights__ of the model trained
 on the original dataset ([Sport_1M](https://cs.stanford.edu/people/karpathy/deepvideo/)) here:  
 https://drive.google.com/file/d/1rlZ-xTkTMjgWKiQFUedRnHlDgQwx6yTm/view
 
