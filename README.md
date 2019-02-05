@@ -11,11 +11,12 @@ You can download weights of the model trained
 on the original dataset ([Sport_1M](https://cs.stanford.edu/people/karpathy/deepvideo/)) here:  
 https://drive.google.com/file/d/1rlZ-xTkTMjgWKiQFUedRnHlDgQwx6yTm/view
 
-To run `c3d/example.py` you should place them in `models` directory or change the path inside
-[example.py](example.py) accordingly.
+To run the `c3d/example.py` you should place them in a `models` directory or change the path inside
+the [example.py](example.py) accordingly.
 
-Weights were converted from Caffe format with the code and instructions 
-in this project: https://github.com/axon-research/c3d-keras
+The weights were converted from the Caffe format with the code and instructions 
+in this project:  
+https://github.com/axon-research/c3d-keras
 
 # How to run
 1. Build a docker image:  
