@@ -1,9 +1,9 @@
-from sport1m_model import C3D_model
+from sport1m_model import create_model_functional
 import numpy as np
 
 
 def main():
-    model = C3D_model()
+    model = create_model_functional()
     try:
         model.load_weights('models/C3D_Sport1M_weights_keras_2.2.4.h5')
     except OSError as err:
